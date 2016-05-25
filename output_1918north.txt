@@ -1,0 +1,207 @@
+Rank Team                            W-L-T    Rating
+  1  Colorado Mines                  4-0-0   74.5892
+  2  Grinnell                        1-0-0   70.2404
+  3  Oklahoma                        6-0-0   62.7475
+  4  Kelly Field                     1-0-0   59.5892
+  5  Phillips                        0-1-0   56.7475
+  6  Texas                           9-0-0   49.5803
+  7  Navy                            4-1-0    45.601
+  8  Illinois                        5-2-0   43.5666
+  9  Chicago Naval Reserve           4-0-0   43.2006
+ 10  Barron Field                    1-0-0   43.1524
+ 11  Chanute Field                   0-1-0   40.5666
+ 12  Northern Colorado               2-1-0    40.355
+ 13  Great Lakes Navy                6-0-2   40.1482
+ 14  Texas A&M                       6-1-0   37.8312
+ 15  Camp Logan                      1-1-1   36.5892
+ 16  Michigan                        5-0-0     34.86
+ 17  Iowa                            6-2-1   33.9201
+ 18  Camp Grant                      1-0-0   33.5532
+ 19  Camp Hancock                    2-0-0   33.2507
+ 20  Denver                          3-2-0   32.7243
+ 21  Ream Field                      2-2-0   32.6475
+ 22  Camp Dodge                      2-0-1   31.7275
+ 23  Cleveland Naval Reserves        1-0-0   31.6616
+ 24  Rice                            1-5-1   31.5892
+ 25  Pittsburgh                      4-1-0   30.6616
+ 26  Carruthers Field                1-0-0   29.7267
+ 27  Penn Radio School               0-2-0   29.5803
+ 28  Ohio State                      3-3-0   29.0773
+ 29  Minnesota Alumni                0-0-1   29.0435
+ 30  Minnesota                       5-2-1   29.0435
+ 31  Texas Christian                 4-2-0   28.7267
+ 32  Northwestern                    2-2-1   27.6922
+ 33  Oklahoma State                  4-2-0   27.5803
+ 34  Mare Island Navy                1-0-0   27.4915
+ 35  Colorado                        2-3-0   26.7514
+ 36  Wisconsin                       3-3-0   26.5532
+ 37  Camp Mabry                      0-2-0   26.2058
+ 38  Colorado College                1-2-0   25.6883
+ 39  Southwestern (Texas)            3-2-0   25.5701
+ 40  Washington (Missouri)           6-0-0   25.2404
+ 41  Notre Dame                      3-1-2    25.051
+ 42  Mare Island Marines             10-1-0  23.1482
+ 43  Nebraska                        2-3-1   22.8211
+ 44  Southern Methodist              3-2-0   22.4815
+ 45  Camp MacDowell                  1-0-0   22.3721
+ 46  Syracuse                        5-1-0   21.8678
+ 47  Kansas State                    4-1-0   21.6766
+ 48  Colorado State                  0-2-0   21.2378
+ 49  Georgia Tech                    6-1-0   20.7439
+ 50  Michigan State                  4-3-0   20.5254
+ 51  Chicago                         4-6-1   19.5001
+ 52  Kansas                          2-2-0   19.1667
+ 53  Vanderbilt                      4-2-0   19.1116
+ 54  MacAurthur Field                1-0-0   18.1524
+ 55  Balboa NTS                      0-1-0   18.1482
+ 56  Baylor                          0-6-0   17.1524
+ 57  Love Field                      0-1-0   16.4815
+ 58  Iowa State                      0-3-0   16.4414
+ 59  Mather Field                    2-1-0   14.6706
+ 60  Norfolk Navy                    0-1-0    14.601
+ 61  Haskell                         0-1-0   14.5803
+ 62  Camp Greenleaf                  2-0-0   14.4449
+ 63  Camp Griffin                    1-0-0    14.091
+ 64  Purdue                          3-3-0   13.6375
+ 65  Multnomah A.C.                  2-0-0   13.5251
+ 66  Loyola Academy                  0-1-0   13.5001
+ 67  Central Oklahoma                0-2-0   13.1639
+ 68  Lieutenants                     0-1-0   12.7514
+ 69  Western Michigan                0-1-0   11.5254
+ 70  St. Thomas                      0-1-0   11.0435
+ 71  Navy Transport                  0-1-0   8.86777
+ 72  Wichita State                   0-1-0   8.58031
+ 73  California                      6-2-0   8.37209
+ 74  Coe                             0-1-0   6.92008
+ 75  Rutgers                         5-2-0   6.56916
+ 76  St. Louis                       0-1-0    6.2404
+ 77  Beloit                          0-1-0   5.55319
+ 78  Albion                          0-1-0   5.52541
+ 79  Oregon                          4-2-0   5.00642
+ 80  Camp Travis                     0-2-0   4.83121
+ 81  Post Field                      0-1-0   4.74745
+ 82  Omaha Balloon                   0-1-0   3.82114
+ 83  Austin                          0-2-0   3.60412
+ 84  Camp Taylor                     1-0-0   2.87452
+ 85  Washburn                        0-1-0   2.67658
+ 86  Baker                           0-2-0   2.42164
+ 87  Presidio of San Francisco       0-1-0   2.37209
+ 88  Fort Lewis                      1-2-0   2.06612
+ 89  Columbia                        0-1-0   1.86777
+ 90  Fort Riley                      0-1-0   1.67658
+ 91  Westminster (Missouri)          0-1-0    1.2404
+ 92  Kentucky                        2-1-0   0.99304
+ 93  DePauw                          1-1-0  0.756001
+ 94  Chicago YMCA                    0-1-0  0.500055
+ 95  Washington                      1-1-0  0.0250749
+ 96  Cornell (Iowa)                  0-1-0  -0.0799185
+ 97  Geneva                          1-0-0  -0.338412
+ 98  Pelham Bay Navy                 0-1-0  -0.430838
+ 99  Drake                           3-2-0  -0.759605
+100  Overland Station                0-1-0  -0.956524
+101  Indiana                         2-2-0  -1.12548
+102  Newport NTS                     1-1-0   -1.5999
+103  Scott Field                     0-1-0   -2.7596
+104  Washington & Jefferson          2-2-0  -3.33841
+105  Crane J.C.                      0-1-1  -3.49995
+106  Oregon State                    2-4-0  -3.95627
+107  Philadelphia Naval Yard         1-0-0  -3.96066
+108  Fort Sheridan                   1-0-0  -4.90902
+109  Denison                         0-1-0  -4.92271
+110  Camp Gordon                     1-1-0  -5.58255
+111  Camp Devens                     1-0-0  -6.54384
+112  Case                            0-3-0  -6.67058
+113  Simpson                         0-1-0   -7.7596
+114  Goat Island Navy                0-1-0  -7.85179
+115  Wissahickon Barracks            0-0-1  -8.79849
+116  Penn State                      1-2-1  -8.79849
+117  Texas State                     0-1-0  -9.42989
+118  Camp Pike                       1-0-0   -9.9211
+119  Swarthmore                      1-1-0  -9.96066
+120  Sewanee                         2-2-0  -10.2218
+121  North Texas                     0-1-0  -10.2733
+122  Indiana (Pennsylvania)          0-1-0  -10.3384
+123  St. Mary's                      0-2-0  -10.7399
+124  Pennsylvania                    5-3-0  -10.9607
+125  Missouri-Rolla                  0-2-0  -11.3404
+126  San Pedro Navy                  0-1-0  -11.6279
+127  Auburn                          2-5-0   -11.909
+128  Ohio Wesleyan                   0-1-0  -11.9227
+129  Knox                            0-1-0  -12.3078
+130  Vancouver Barracks              0-2-0   -13.404
+131  League Island Navy              1-1-0   -14.085
+132  Arkansas                        3-2-0  -15.9211
+133  Georgetown (Kentucky)           0-1-0   -17.007
+134  Standifer Shipbuilders          0-1-0  -17.9563
+135  Brown                           2-3-0  -18.5438
+136  Tulsa                           0-2-0  -19.1704
+137  Lehigh                          3-3-0  -19.6262
+138  St. Helena NTS                  0-1-0   -20.399
+139  Hyde Park High                  0-1-0  -21.4999
+140  Harvard                         2-1-0  -21.5438
+141  Missouri State                  0-1-0  -21.9211
+142  Dartmouth                       3-3-0  -22.4142
+143  Carleton-St. Olaf               0-1-0  -23.9565
+144  Garden City                     1-0-0  -24.4064
+145  Clemson                         5-2-0  -24.6102
+146  Marion                          0-1-0   -24.909
+147  Southern California             1-1-0  -26.5682
+148  Fort Oglethorpe                 0-1-0  -28.2218
+149  Tufts                           0-1-0  -28.5438
+150  Fort Des Moines                 0-1-0  -28.7596
+151  Boston College                  0-1-0  -29.5438
+152  Des Moines                      0-1-0  -29.7596
+153  U.S. Marines                    1-1-0  -31.0202
+154  Hoboken Navy                    0-1-0  -33.4308
+155  Wabash                          0-2-0  -34.1558
+156  Foundation                      0-1-0  -35.9936
+157  St. Joseph's (Pennsylvania)     0-2-0  -36.6836
+158  USS Minnesota                   0-1-0  -37.9607
+159  Camp Greene                     0-0-1  -38.5867
+160  Davidson                        2-1-1  -38.5867
+161  Howard Payne                    0-1-0  -39.4299
+162  Hillsdale                       0-1-0  -39.4746
+163  American                        1-0-0  -41.8007
+164  Camp Harrison                   0-1-0  -42.1255
+165  Norwich                         0-1-0  -42.4142
+166  Charleston Navy                 1-0-0   -42.554
+167  Fremont Ammuntion               0-1-0  -42.8518
+168  Camp Baker                      0-1-0  -43.8518
+169  Idaho                           0-1-0  -44.8518
+170  Lafayette                       3-4-0  -45.4064
+171  Middlebury                      0-1-0  -48.4142
+172  Citadel                         0-2-1   -48.554
+173  Johns Hopkins                   0-0-1  -48.8007
+174  Maryland                        4-1-1  -48.8007
+175  Virginia Military Institute     1-3-0  -49.8007
+176  Virginia Tech                   7-0-0  -51.0016
+177  Stanford                        0-4-0  -52.5085
+178  New York University             0-1-0  -52.8007
+179  McDaniel                        0-1-0  -53.8007
+180  St. John's (Maryland)           0-1-0  -53.8007
+181  Muhlenberg                      1-1-0  -56.0163
+182  Tennessee                       0-1-0  -56.8884
+183  North Carolina                  0-2-0  -57.2941
+184  Franklin & Marshall             0-1-0  -58.4064
+185  Washington & Lee                1-2-0  -61.8557
+186  Gallaudet                       0-1-0  -62.8007
+187  South Carolina                  2-1-1  -65.4978
+188  Camp Perry                      0-1-0  -65.8518
+189  Ursinus                         0-3-0  -67.7454
+190  Oglethorpe                      0-1-0   -69.909
+191  Camp Sherman                    0-1-0  -71.3384
+192  Erskine                         1-0-1  -71.9135
+193  Morgan                          0-1-0  -72.2218
+194  Wake Forest                     1-2-0  -74.9787
+195  Presbyterian                    2-0-0  -76.0175
+196  2nd Developmemt Regiment        1-0-0  -76.0175
+197  Camp Humphreys                  0-1-0  -78.0016
+198  Belmont A.C.                    0-1-0  -81.0016
+199  Furman                          3-5-1  -82.0175
+200  Wofford                         0-3-0  -88.8096
+201  Camp Sevier                     0-1-0  -89.6102
+202  North Carolina State            1-3-0  -93.0788
+203  Bailey Military                 0-1-0  -96.0175
+204  48th Infantry                   0-2-0  -101.517
+205  11th Cavalry                    0-1-0  -102.256
+206  Guilford                        0-1-0  -147.079
